@@ -1,0 +1,270 @@
+/*home page*/
+.navbar img{
+    width: 280px;
+    height: 180px;
+}
+.navbar i{
+    font-size: 30px !important;
+    padding: 5px !important;
+}
+.top video{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+.top h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.vedio-1, .video-2, .video-3, .video-4, .video-5, .video-6, .video-7, .video-8, .video-9, .video-10{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.head p{
+    margin-left: 10px;
+}
+.head video{
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+    justify-content: center;
+}
+.page-footer{
+    text-align: center;
+    background-color: rgb(187, 3, 3);
+    color: white;
+}
+.container i{
+    font-size: 50px !important;
+    padding: 2% !important;
+}
+.footer-copyright{
+    background-color: rgb(252, 57, 67);
+    color: white;
+}
+/*today page*/
+h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.today{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.today video{
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+}
+.today p{
+    margin-left: 10px;
+}
+/*tomoorow page*/
+h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.previous{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.previous video{
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+}
+.previous p{
+    margin-left: 10px;
+}
+/*sports page*/
+h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.sports{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sports video{
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+}
+.sports p{
+    margin-left: 10px;
+}
+/*showbiz page*/
+h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.showbiz{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.showbiz video{
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+}
+.showbiz p{
+    margin-left: 10px;
+}
+/*educational page*/
+h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.educational{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.educational video{
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+}
+.educational p{
+    margin-left: 10px;
+}
+/*competition page*/
+.competition h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+.naat img{
+    width: 100%;
+    height: 500px;
+}
+.competition video{
+    width: 350px;
+    height: auto;
+}
+.naat, .arts, .science{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.vote1, .vote2, .vote3{
+    margin-top: 10px;
+    margin-left: 3%;
+    margin-bottom: 10px;
+}
+.naat p{
+    font-size: 15px;
+}
+.naat button{
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    background-color: rgb(187, 3, 3);
+    color: white;
+}
+.competition img{
+    width: 100%;
+    height: 500px;
+}
+.arts img{
+    width: 350px;
+    height: 300px;
+}
+.arts p{
+    font-size: 15px;
+}
+.arts button{
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    background-color: rgb(187, 3, 3);
+    color: white;
+}
+.science img{
+    width: 350px;
+    height: 300px;
+}
+.science p{
+    font-size: 15px;
+}
+.science button{
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    background-color: rgb(187, 3, 3);
+    color: white;
+}
+/*wallpaper page*/
+.humayun{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.image1, .image2, .image3, .image4, .image5{
+    margin-top: 10px;
+    margin-left: 3%;
+    margin-bottom: 10px;
+}
+.humayun img{
+    width: 350px;
+    height: 300px;
+}
+.humayun button{
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    background-color: rgb(187, 3, 3);
+    color: white;
+    margin-top: 20px;
+}
+/*contact page*/
+h1{
+    background-color: rgb(187, 3, 3);
+    color: white;
+    text-align: center;
+}
+form{
+    margin-left: 10%;
+}
+form input{
+    width: 40%;
+    height: auto;
+    margin-left: 1%;
+    margin-top: 10px;
+}
+form textarea{
+    width: 81.5%;
+    height: auto;
+    margin-left: 1%;
+    margin-top: 10px;
+}
+#myfile{
+    width: 70%;
+    height: auto;
+}
+form button{
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    background-color: rgb(187, 3, 3);
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+/*Experiment*/
